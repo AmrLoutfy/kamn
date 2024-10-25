@@ -28,7 +28,7 @@ class HomeScreen extends StatelessWidget {
                 Icons.notifications,
                 color: Colors.black,
               ),
-              SizedBox(width: 10),
+              SizedBox(width:   10),
               Image.asset('assets/images/User 07a.png'),
             ],
           ),
