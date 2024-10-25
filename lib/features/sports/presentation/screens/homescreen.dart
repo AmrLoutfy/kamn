@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
           },
           child: Container(
             width: 40,
-            height: 40,
+            height: 40 ,
             decoration: BoxDecoration(
                 shape: BoxShape.circle, color: Colors.white),
             child: Icon(
