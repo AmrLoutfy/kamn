@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
               Navigator.pop(context);
             },
             child: Container(
-              width: 40,
+              width: 40 ,
               height: 40,
               decoration: BoxDecoration(
                   shape: BoxShape.circle, color: CupertinoColors.white),
